@@ -11,7 +11,7 @@ Website : The website is now live at <a href=https://airaforyou.onrender.com>htt
 
 # Aira - Methodology
 
-![Methodology of Aira](readme-images/aira_flow.png)
+![Methodology of Aira](https://github.com/thepropotato/Aira/blob/main/readme-images/aira_flow.png)
 
 1. Users will be required to Login/Signup for the service.
 2. On successful login, users will be redirected to **Home page** of Aira.
@@ -34,7 +34,7 @@ The website is built purely using Python, HTML, CSS and a bit of Javascript. The
 
 # Landing (Login) page
 
-![Login page image](readme-images/login.png)
+![Login page image](https://github.com/thepropotato/Aira/blob/main/readme-images/login.png)
 
 The login page allows users (first time users) to signup, and users who have already signed up can simply login.
 
@@ -51,7 +51,7 @@ The login page allows users (first time users) to signup, and users who have alr
 
 # Home page
 
-![Home page image](readme-images/home.png)
+![Home page image](https://github.com/thepropotato/Aira/blob/main/readme-images/home.png)
 
 This page contains 3 templates (as of now). 
 1. Classic Single Column
@@ -67,21 +67,21 @@ Users can choose any one of these templates and
 
 # Update Profile page
 
-![Update Profile page image](readme-images/update_profile.png)
+![Update Profile page image](https://github.com/thepropotato/Aira/blob/main/readme-images/update_profile.png)
 
 This section/page takes inputs of professional information from the user. Hitting on the **Save Information** button will upload the data on the cloud.
 <br><br>
 
 # Current Profile page
 
-![Current Profile page image](readme-images/view_profile.png)
+![Current Profile page image](https://github.com/thepropotato/Aira/blob/main/readme-images/view_profile.png)
 
 This is where the uploaded data can be checked for knowing what data you can expect in your resume. Everything that is present in this page, will show up in your resume.
 <br><br>
 
 # About page
 
-![About page image](readme-images/about.png)
+![About page image](https://github.com/thepropotato/Aira/blob/main/readme-images/about.png)
 
 This section of the website talks about the creators and our primary aim of Aira. You can always get in touch with us using the creator cards.
 <br><br>
